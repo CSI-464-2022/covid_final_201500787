@@ -7,6 +7,42 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:612095875072:android:c1da071a63e4ad637d20e5",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612095875072-97cu12gmhcv8ho7n9ts1mri1ddohkn49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QS4uQrWOmey-9lGe5jqFgm-qSVO0TpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612095875072-97cu12gmhcv8ho7n9ts1mri1ddohkn49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612095875072-9r0fbsn4aplrinedurv5jjgdd629svdv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kesegotumisang.csi464"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:612095875072:android:a9a0ef638fb530697d20e5",
         "android_client_info": {
           "package_name": "com.example.covid_final"
@@ -37,6 +73,85 @@
             {
               "client_id": "612095875072-97cu12gmhcv8ho7n9ts1mri1ddohkn49.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "612095875072-9r0fbsn4aplrinedurv5jjgdd629svdv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kesegotumisang.csi464"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612095875072:android:cc3b512357b55bfd7d20e5",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612095875072-97cu12gmhcv8ho7n9ts1mri1ddohkn49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QS4uQrWOmey-9lGe5jqFgm-qSVO0TpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612095875072-97cu12gmhcv8ho7n9ts1mri1ddohkn49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612095875072-9r0fbsn4aplrinedurv5jjgdd629svdv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kesegotumisang.csi464"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612095875072:android:85f345922187c8a37d20e5",
+        "android_client_info": {
+          "package_name": "com.kesegotumisang.csi464"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612095875072-97cu12gmhcv8ho7n9ts1mri1ddohkn49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QS4uQrWOmey-9lGe5jqFgm-qSVO0TpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612095875072-97cu12gmhcv8ho7n9ts1mri1ddohkn49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612095875072-9r0fbsn4aplrinedurv5jjgdd629svdv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kesegotumisang.csi464"
+              }
             }
           ]
         }

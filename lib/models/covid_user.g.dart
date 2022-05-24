@@ -12,9 +12,8 @@ CovidUser _$CovidUserFromJson(Map<String, dynamic> json) => CovidUser(
       email: json['email'] as String,
       phoneNumber: json['phoneNumber'] as String,
       physicalAddress: json['physicalAddress'] as String,
-      city: json['city'] as String,
-      ward: json['ward'] as String,
-      district: json['district'] as String,
+      role: json['role'] as String?,
+      userId: json['userId'] as String,
     );
 
 Map<String, dynamic> _$CovidUserToJson(CovidUser instance) => <String, dynamic>{
@@ -23,7 +22,6 @@ Map<String, dynamic> _$CovidUserToJson(CovidUser instance) => <String, dynamic>{
       'email': instance.email,
       'phoneNumber': instance.phoneNumber,
       'physicalAddress': instance.physicalAddress,
-      'city': instance.city,
-      'ward': instance.ward,
-      'district': instance.district,
+      'role': instance.role,
+      'userId': instance.userId,
     };
